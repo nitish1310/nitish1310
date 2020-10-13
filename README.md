@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
+
 **nitish1310/nitish1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 <a href="mailto:nitish.soman13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nitish.soman13@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/nitish1310)
+⭐️ From [nitish1310](https://github.com/nitish1310)
