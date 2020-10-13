@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
- 
   ![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![ASP.net](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
@@ -67,7 +66,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://nitish-soman.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-nitish-soman.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://nitish-soman.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in//nitishsoman13/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nitish%20Soman-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/nitish.soman13/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nitish.soman13__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nitish.soman13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nitish.soman13@gmail.com-blue?style=flat-square&logo=gmail"></a>
