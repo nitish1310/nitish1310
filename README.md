@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/nitish1310">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitish1310&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish1310&theme=buefy&layout=compact" />
 </a>
 
 <br/>
